@@ -1,5 +1,5 @@
 <h1 align=center>
-	Fuzzy Search
+	String Search
 </h1>
 	
 Inspired by [bevacqua/fuzzysearch][1], a fuzzy matching library written in
