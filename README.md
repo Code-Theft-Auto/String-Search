@@ -1,5 +1,7 @@
-# Fuzzy Search
-
+<h1 align=center>
+	Fuzzy Search
+</h1>
+	
 Inspired by [bevacqua/fuzzysearch][1], a fuzzy matching library written in
 JavaScript. But contains some extras like ranking using [Levenshtein
 distance][2] and finding matches in a list of words.
@@ -10,13 +12,13 @@ useful for filtering data very quickly based on lightweight user input.
 The current implementation uses the algorithm suggested by Mr. Aleph, a russian
 compiler engineer working at V8.
 
-## Install
+### Install
 
 ```
 go get github.com/BananaBoii600/Fuzzy-Search/fuzzy
 ```
 
-## Usage
+### Usage
 
 ```go
 package main
